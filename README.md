@@ -1,4 +1,4 @@
-# The clinical significance of blood biochemical parameters as a rapid diagnostic indicator of health status in salmonid aquaculture.
+# Modeling of blood biochemical parameters as a rapid diagnostic indicator of health status in salmonid aquaculture.
 ##  Author: 
 Dr. Shahadate Rezvy
 
