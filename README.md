@@ -1,5 +1,4 @@
-# SiF-fish-Health
-The clinical significance of blood biochemical parameters as a rapid diagnostic indicator of health status in salmonid aquaculture.
+# The clinical significance of blood biochemical parameters as a rapid diagnostic indicator of health status in salmonid aquaculture.
 ##  Author: 
 Dr. Shahadate Rezvy
 
