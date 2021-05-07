@@ -51,17 +51,4 @@ From the waterfall plot these three conditions can separate out 60% of the obser
 ### Force Plots for individual fish health and explaining models prediction
 ![Force_Plots](https://user-images.githubusercontent.com/31511385/115146921-9b675380-a050-11eb-8859-704b4b95950b.png)
 
-### Further Exploratory Analysis : Dashboads and bubble plots
-![Bubble Plots](https://user-images.githubusercontent.com/31511385/115148783-0fa5f500-a059-11eb-8c69-75befb32bd7f.png)
-
-### Unsupervised Explorlation: K-means and t-SNE for hybrid semi-supervised model development
-
-![Cluster](https://user-images.githubusercontent.com/31511385/115149080-58aa7900-a05a-11eb-9807-e3581bd3a8e3.PNG)
-With 3 clusters, we can assign cluster 2 and 3 as healthy with some unhealthy’s in them aand cluster 1 as unhealthy, which would lead to better accuracy in terms of cluster to supervised label alignment.
-### Proposed Human in the loop solution
-![Semi-Supervised](https://user-images.githubusercontent.com/31511385/115150680-5e578d00-a061-11eb-9b79-24d1169a6ff7.PNG)
-
-
-### Licensing:
-The dataset is confidential for commercialization purposes.
 
