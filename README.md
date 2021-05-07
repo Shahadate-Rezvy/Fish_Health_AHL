@@ -1,6 +1,3 @@
-# Modeling of blood biochemical parameters as a rapid diagnostic indicator of health status in salmonid aquaculture.
-##  Author: 
-Dr. Shahadate Rezvy
 
 ##  Major Python Modules/Libraries: 
 scikit-learn, shap, dash, Plotly, keras, seaborn, matplotlib, pandas
